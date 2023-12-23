@@ -5,10 +5,10 @@ Elmar Edel: https://archive.org/details/altgyptischegram0001edel/page/n9/mode/2u
 ## Middle Egyptian (Classical period)
 ### Grammar
 A very good introduction book for beginners：
-  James P. Allen: https://archiv.ub.uni-heidelberg.de/propylaeumdok/5185/1/Peust_James_P_Allen_A_Grammar_of_the_Ancient_Pyramid_Texts_2018.pdf
+  James P. Allen: https://archive.org/details/ALLEN2014MiddleEgyptianAnIntroductionToTheLanguageAndCultureOfHieroglyphs
 
 A quite systematical reference book：
-  Sir Allen Gardiner: https://mjn.host.cs.st-andrews.ac.uk/egyptian/grammars/Gardiner.pdf
+  Sir Allen Gardiner: https://www.coptica.ch/Gardiner-EgyptianGrammar.pdf
 
 ### Sign list
   From Sir Allen Gardiner：http://web.ff.cuni.cz/ustavy/egyptologie/pdf/Gardiner_signlist.pdf
