@@ -8,10 +8,10 @@ A very good introduction book for beginners：
   James P. Allen: https://archive.org/details/ALLEN2014MiddleEgyptianAnIntroductionToTheLanguageAndCultureOfHieroglyphs
 
 A quite systematical reference book：
-  Sir Allen Gardiner: https://www.coptica.ch/Gardiner-EgyptianGrammar.pdf
+  Sir Alan Gardiner: https://www.coptica.ch/Gardiner-EgyptianGrammar.pdf
 
 ### Sign list
-  From Sir Allen Gardiner：http://web.ff.cuni.cz/ustavy/egyptologie/pdf/Gardiner_signlist.pdf
+  From Sir Alan Gardiner：http://web.ff.cuni.cz/ustavy/egyptologie/pdf/Gardiner_signlist.pdf
 
 ### Dictionary 
 A short version for beginners:
